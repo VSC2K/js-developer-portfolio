@@ -47,7 +47,12 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na OneBitCode para a criaçao de uma página web",
+      "name": "Criaçao de uma página web - Seal-World",
+      "url": "https://github.com/VSC2K/Seal-World",
+      "github": true
+    },
+    {
+      "name": "Criaçao de uma página web - PetLife",
       "url": "https://github.com/VSC2K/PetLife",
       "github": true
     },
